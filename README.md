@@ -1,3 +1,3 @@
 # demo
-this my first git repository.
-wajiha mughal
+This my first git repository.
+author-wajiha mughal
